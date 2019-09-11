@@ -7,3 +7,6 @@ What is programming background: Experienced in multiple langauges(C,C++,Java,Nod
 
 Jacob House
 houseja2@msu.edu
+
+Josh Adams
+adamsj83@msu.edu
